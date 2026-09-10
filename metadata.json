@@ -1,0 +1,6 @@
+{
+  "name": "KrishiAlert - El Niño Agricultural Risk System",
+  "description": "AI-powered agricultural decision-support and early warning platform converting El Niño signals, weather, soil moisture, and satellite NDVI into district-level crop risk assessments and actionable farmer advisories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
